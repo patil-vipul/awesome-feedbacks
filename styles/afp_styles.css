@@ -1,0 +1,131 @@
+.afp-btn{
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.afp-mx-1{
+    margin-right: .25rem!important;
+    margin-left: .25rem!important;
+}
+
+.afp-btn-outline-danger{
+    color: #dc3545;
+    border-color: #dc3545;
+}
+
+.afp-btn-outline-success{
+    color: #198754;
+    border-color: #198754;
+}
+
+.afp-text-start{
+    text-align: left!important;
+}
+
+.afp-m1{
+    margin: .25rem!important;
+}
+
+.afp-text-primary{
+    color: #0d6efd!important;
+}
+.afp-d-flex{
+    display: flex!important;
+}
+.afp-align-items-center{
+    align-items: center!important;
+}
+.afp-my-3{
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+}
+.afp-ms-3{
+    margin-left: 1rem!important;
+}
+.afp-fs-6{
+    font-size: 1rem!important;
+}
+.afp-fw-light{
+    font-weight: 300!important;
+}
+
+.afp-form-control{
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+
+.afp-rounded-0{
+    border-radius: 0!important;
+}
+
+.afp-shadow-none{
+    box-shadow: none!important;
+}
+.afp-text-muted{
+    color: #6c757d!important;
+}
+.afp-my-2{
+    margin-top: .5rem!important;
+    margin-bottom: .5rem!important;
+}
+
+.afp-btn-primary{
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+.afp-px-5{
+    padding-right: 3rem!important;
+    padding-left: 3rem!important;
+}
+.afp-text-center{
+    text-align: center!important;
+}
+.afp-mt-2{
+    margin-top: .5rem!important;
+}
+.afp-mt-1{
+    margin-top: .25rem!important;
+}
+.afp-p-2{
+    padding: .5rem!important;
+}
+
+.afp-mb-0{
+    margin-bottom: 0!important;
+}
+.afp-bg-light{
+    background-color: #f8f9fa!important;
+}
+.afp-text-decoration-none{
+    text-decoration: none!important;
+}
