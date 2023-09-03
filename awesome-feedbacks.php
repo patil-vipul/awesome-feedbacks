@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Awesome Feedbacks
- * Author: Ranjit
+ * Author: Vipul
 * Version: 1.23
 **/
 add_action( 'wp_enqueue_scripts', 'loadStylesheetsAwesomeFeedbacks' );
